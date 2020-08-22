@@ -1,0 +1,9 @@
+.vs/
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vscode/
+
+PythonForDataAnalysis/.ipython_checkpoints/

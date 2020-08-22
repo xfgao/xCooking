@@ -1,0 +1,4 @@
+TAB Clicked:
+10
+Game Time: 
+95
