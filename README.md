@@ -1,10 +1,10 @@
 # xCooking
 Code for the collaborative cooking game in the RO-MAN 2020 paper "Joint Mind Modeling for Explanation Generation in Complex Human-Robot Collaborative Tasks".
-To run the code please compile with UE4.23. 
-All the assets are under the Content folder.
-We provide a basic environment. 
-"STAOG.h" defines all the data structures and some utilites.
-"TaskPawn" class is the main workhorse of the game. It defines how the agent interact with the environment. AIActionPlan queues all the plans planner makes.
+To run the code please compile with Unreal Engine 4.23. 
+
+We provide the source code for the gaming environment and you can implement the agent and the XAI module:
+- "STAOG.h" defines all the data structures and some utilites;
+- "TaskPawn" class is the main workhorse of the game. It defines how the agent interact with the environment. AIActionPlan queues all the plans planner makes.
 
 
 # Binary
