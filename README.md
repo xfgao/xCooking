@@ -10,6 +10,6 @@ We provide the source code for the gaming environment and you can implement the 
 # Binary
 For a binary which is playable under Windows:
 
-https://drive.google.com/file/d/1Jqv3hKOQNeHiIgDZ1ra2Ns0LJB9-a6xO/view?usp=sharing
+https://drive.google.com/a/g.ucla.edu/uc?id=1Jqv3hKOQNeHiIgDZ1ra2Ns0LJB9-a6xO&export=download
 
 It contains both the cooking game, an collaborative agent and the XAI module. The user can control the agent using keyboard. Explanations would be displayed via the user interface. After the task has been finished, the time to completion each dish would be recorded.
